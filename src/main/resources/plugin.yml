@@ -1,0 +1,6 @@
+name: FallenUtil
+version: ${project.version}
+main: com.fallenflame.fallenutil.FallenUtil
+authors: [JoeZwet]
+description: Utils for other our plugins bundled into one.
+website: https://fallenflame.com
